@@ -1,6 +1,8 @@
-## Event Queue
+## Imgui-SFML demo!
 
-Simple event queue class + testing.
+Project that builds imgui_sfml + imgui and can run the full imgui demo. 
+
+It's useful to seed a new ImGui project.
 
 ### Build instructions
 
@@ -13,8 +15,3 @@ Build the code:
 > cmake ..
 
 > make
-
-Run the tests:
-
-> ./test/event_queue_test
-
